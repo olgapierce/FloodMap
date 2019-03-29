@@ -1,2 +1,0 @@
-# FloodMap
-Zoomified flood maps
